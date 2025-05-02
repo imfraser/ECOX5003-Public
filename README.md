@@ -1,0 +1,1 @@
+This folder contains basic Python code generated using Google Colab and a Juypter Notebook. The code for each week of the module for the various data exercises will be made available here.
