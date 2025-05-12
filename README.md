@@ -4,6 +4,4 @@ This folder contains basic Python code generated using Google Colab and a Juypte
 
 There is a very basic introductory Word document containing an guidance on how to get started using Google Colab.
 
-There is now week 3 code as this is a simple extension of week 2 - OLS the model using the Lnwage and exper^2.
-
-See for more on wk5 https://www.statsmodels.org/dev/gettingstarted.html
+There is now code upto week 6
